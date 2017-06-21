@@ -1,0 +1,9 @@
+c:\users\george\documents\visual studio 2017\Projects\FunWithArrays\FunWithArrays\bin\Debug\netcoreapp1.1\FunWithArrays.deps.json
+c:\users\george\documents\visual studio 2017\Projects\FunWithArrays\FunWithArrays\bin\Debug\netcoreapp1.1\FunWithArrays.runtimeconfig.json
+c:\users\george\documents\visual studio 2017\Projects\FunWithArrays\FunWithArrays\bin\Debug\netcoreapp1.1\FunWithArrays.runtimeconfig.dev.json
+c:\users\george\documents\visual studio 2017\Projects\FunWithArrays\FunWithArrays\bin\Debug\netcoreapp1.1\FunWithArrays.dll
+c:\users\george\documents\visual studio 2017\Projects\FunWithArrays\FunWithArrays\bin\Debug\netcoreapp1.1\FunWithArrays.pdb
+c:\users\george\documents\visual studio 2017\Projects\FunWithArrays\FunWithArrays\obj\Debug\netcoreapp1.1\FunWithArrays.csprojResolveAssemblyReference.cache
+c:\users\george\documents\visual studio 2017\Projects\FunWithArrays\FunWithArrays\obj\Debug\netcoreapp1.1\FunWithArrays.AssemblyInfo.cs
+c:\users\george\documents\visual studio 2017\Projects\FunWithArrays\FunWithArrays\obj\Debug\netcoreapp1.1\FunWithArrays.dll
+c:\users\george\documents\visual studio 2017\Projects\FunWithArrays\FunWithArrays\obj\Debug\netcoreapp1.1\FunWithArrays.pdb
